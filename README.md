@@ -1,6 +1,6 @@
 # **Curriculo**
 ## Nome Alerrandro Gabriel Cabeleira Chaves
-# [Gmail] alerrandro.chaves74@gmail.com
+# [Gmail] alerrandrochaves74@gmail.com
 # Cidade: Alvares machado – SP
 
 # **Formação Acadêmica**
