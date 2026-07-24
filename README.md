@@ -5,6 +5,7 @@
 
 # **Formação Acadêmica**
 Ensino Médio – 2º ano (cursando)
+
 T.I senai dev (A) (SP Presidente Prudente)
 
 # **Certificados**
