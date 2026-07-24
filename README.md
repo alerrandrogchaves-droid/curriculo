@@ -18,4 +18,5 @@ APLICADA A PROGRAMAÇÃO - CHATGPT (48 horas)
 # objetivo
 Busco uma oportunidade de estágio ou de primeiro emprego para desenvolver minhas habilidades, adquirir experiência profissional e contribuir com dedicação para a empresa.
 
-# **Nenhuma**
+# **Experiencias**
+Nenhuma
